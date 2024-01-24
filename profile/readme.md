@@ -5,9 +5,10 @@
 * **Master**: Master Information Studies: Information Systems (track)
 * **University**: University of Amsterdam (UvA)
 * **Institute**: Informatics Institute
-* **Research Group**: Digital Interactions Lab
+* **Faculty**: Faculty of Science (FNWI)
+* **Research Group**: Digital Interactions Lab (DIL)
 * **Student**: BSc Danny de Vries (14495643)
-* **Supervisor**: PhD dr. Hamed Seiied Alavi 
+* **Supervisor**: Dr. H. (Hamed) Seiied Alavi PhD
 
 #### The Research
 The broad objective of this project is to analyze and visualize data on the comfort levels at LAB42 building. This includes the four classic dimensions of comfort (thermal, visual, acoustic, and airquality), but also other aspects such as visual privacy, accessibility, and so forth. Data-oriented methods will be applied to elicit the mostinfluential factors.
